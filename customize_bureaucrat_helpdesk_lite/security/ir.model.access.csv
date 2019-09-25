@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_customize_bureaucrat_helpdesk_lite_customize_bureaucrat_helpdesk_lite,customize_bureaucrat_helpdesk_lite.customize_bureaucrat_helpdesk_lite,model_customize_bureaucrat_helpdesk_lite_customize_bureaucrat_helpdesk_lite,,1,0,0,0
